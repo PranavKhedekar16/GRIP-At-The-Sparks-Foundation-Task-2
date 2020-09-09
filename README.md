@@ -1,3 +1,3 @@
-# GRIP-At-The-Sparks-Foundation-Task-2
+# GRIP-At-The-Sparks-Foundation
 
-#To Explore Supervised Machine Learning
+Task-2 To Explore Supervised Machine Learning
